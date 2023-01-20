@@ -1,0 +1,40 @@
+* {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+footer h1{
+    font-size: 17px;
+    color: rgb(172, 172, 172);
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.divImageHome {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.divImageHome h1 {
+    font-size: 37px;
+    color: rgb(98, 147, 236);
+    padding-bottom: 20px;
+}
+
+.divImageHome img {
+    width: 500px;
+}
+
+.divNav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+    .divImageHome img {
+        width: 60%;
+    }
+  }

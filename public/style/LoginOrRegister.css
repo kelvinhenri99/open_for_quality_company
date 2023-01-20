@@ -1,0 +1,70 @@
+.LoginOrRegister {
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(226, 235, 252);
+    margin-top: 60px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px rgb(158, 158, 158);
+    padding-bottom: 40px;
+    transition: 0.7s ease-in-out;
+}
+
+.LoginOrRegister h1 {
+    background-color: rgb(98, 147, 236);
+    color: white;
+    padding: 20px 0px;
+    border-radius: 13px 13px 0px 0px;
+    font-size: 25px;
+}
+
+.LoginOrRegister div{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: 100px 70%;
+    justify-content: center;
+    grid-gap: 15px 0px;
+    margin-bottom: 30px;
+}
+
+.LoginOrRegister div ion-icon {
+    color: rgb(98, 147, 236);
+    font-size: 35px;
+}
+
+.LoginOrRegister div input {
+    border: 0px;
+    background-color: white;
+    color: rgb(98, 147, 236);
+    cursor: default;
+    border-radius: 15px;
+    text-indent: 10px;
+    font-size: 17px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.LoginOrRegister input[type="submit"] {
+    background-color: rgb(98, 147, 236);
+    color: white;
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    border: 0px;
+    font-size: 17px;
+    margin-top: 30px;
+    padding: 10px 0px;
+    border-radius: 15px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+.LoginOrRegister input[type="submit"]:hover {
+    box-shadow: 0px 0px 15px rgb(158, 158, 158);
+}
+
+.LoginOrRegister label {
+    font-size: 17px;
+    color: rgb(98, 147, 236);
+}
