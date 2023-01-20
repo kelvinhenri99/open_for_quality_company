@@ -1,0 +1,44 @@
+Parte 1 - Lógica
+
+
+1° Cinco colegas foram a um parque...
+    R: A Mara entrou sem pagar, alternativa b).
+
+2° Luiz, Mário e Heitor são amigos...
+    R: Alternativa e).
+
+3° Quatro carros de cores direrentes...
+    R: Alternativa d).
+
+4° João e José sentam-se juntos...
+    R: Jóse é filho de João, alternativa -> d).
+
+5° Uma lesma deve subir um poste...
+    R: A lesma chegará no topo do poste no 9° dia.
+
+6° Um pescador esta do lado de...
+    R:  1° -> Pega a galinha e atravessa o rio.
+        2° -> Deixa a galinha e volta sozinho.
+        3° -> Pega milho(ou raposa, os resultados serão iguais) e travessa o rio.
+        4° -> Deixa o milho e pegar a galinha e volta com a galinha.
+        5° -> Deixa a galinha e pega a raposa e atravessa o rio.
+        6° -> Deixa a raposa, volta sozinho.
+        7° -> Pega a galinha, atravessa e assim você consegue atravessar todos sem nenhum problema.
+
+7° Considere a sequencia de figuras...
+    R: Alternativa c).
+
+8° Considere a sequencia de figuras...
+    R: Alternativa a).
+
+9° Dado o alfabeto abaixo, escreva...
+    R:  a) a a b a b c c d [C]
+        b) a b d e h i m r [X]
+        c) a e i [O]
+        d) z d w [G]
+
+10° Sendo o vetor V = ...
+    R:  a) V[X + 1] => V[2 + 1] => V[3] = 2
+        b) V[V[8]] => V[9] = 62
+        c) V[V[1] * V[3]] -> V[5 * 2] => V[10] = 18
+        d) V[9 - V[4]] => V[9-8] => V[1] = 5
